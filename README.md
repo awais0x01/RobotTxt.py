@@ -1,6 +1,6 @@
 # RobotTxt.py
 
-**robotxt.py** is a Python-based tool for fetching and parsing `robots.txt` files from websites. It extracts `Disallow` and `Allow` paths, checks their accessibility, and returns subdomain-like URLs with their HTTP status codes.
+**RobotTxt.py** is a Python-based tool for fetching and parsing `robots.txt` files from websites. It extracts `Disallow` and `Allow` paths, checks their accessibility, and returns subdomain-like URLs with their HTTP status codes.
 
 ## Features
 - Fetch and parse `robots.txt` files.
@@ -13,5 +13,5 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/awais0x01/robotxt.py.git
-   cd robotxt.py
+   git clone https://github.com/awais0x01/robottxt.py.git
+   cd robottxt.py
